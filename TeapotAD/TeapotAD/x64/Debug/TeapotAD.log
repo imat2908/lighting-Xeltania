@@ -1,0 +1,10 @@
+﻿  scenediffuse.cpp
+c:\users\xeltania\source\repos\xeltania\lab_lighting\teapotad\teapotad\scenediffuse.cpp(82): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\xeltania\source\repos\xeltania\lab_lighting\teapotad\teapotad\scenediffuse.cpp(83): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\xeltania\source\repos\xeltania\lab_lighting\teapotad\teapotad\scenediffuse.cpp(113): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\xeltania\source\repos\xeltania\lab_lighting\teapotad\teapotad\scenediffuse.cpp(114): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\xeltania\source\repos\xeltania\lab_lighting\teapotad\teapotad\scenediffuse.cpp(115): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\xeltania\source\repos\xeltania\lab_lighting\teapotad\teapotad\scenediffuse.cpp(132): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\xeltania\source\repos\xeltania\lab_lighting\teapotad\teapotad\scenediffuse.cpp(133): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\xeltania\source\repos\xeltania\lab_lighting\teapotad\teapotad\scenediffuse.cpp(134): warning C4305: 'argument': truncation from 'double' to 'float'
+  TeapotAD.vcxproj -> C:\Users\Xeltania\source\repos\Xeltania\Lab_Lighting\TeapotAD\x64\Debug\TeapotAD.exe

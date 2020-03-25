@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Lab_Lighting/v16/Browse.VC.db
+/TeapotAD/.vs/TeapotAD/v16
+*.opendb
